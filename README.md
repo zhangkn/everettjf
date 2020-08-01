@@ -1,5 +1,7 @@
 ### 你好，世界 👻
 
+- 🎁 加入字节跳动抖音基础技术团队，联系我微信 everettjf
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=everettjf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🔭 I’m currently working on [WasmPatch](https://github.com/everettjf/WasmPatch)
