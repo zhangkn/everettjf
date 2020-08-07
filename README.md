@@ -8,4 +8,3 @@
 - 👯 I’m currently learning [Swift](https://swift.org)
 - 🤔 I’m currently learning [frida.re](https://frida.re)
 - 📫 How to reach me: [About](https://everettjf.github.io/about/)
-- 🎁 加入字节跳动抖音基础技术团队，[联系我](https://everettjf.github.io/images/mywechat.jpg)
